@@ -1,0 +1,12 @@
+[
+	{
+		"Name": "Petrov",
+		"GroupNumber": 1234,
+		"Marks": [3,4,3,4,4]
+	},
+	{
+		"Name": "Ivanov",
+		"GroupNumber": 5678,
+		"Marks": [5,4,5,4,3]
+	}
+]
